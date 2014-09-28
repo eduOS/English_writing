@@ -1,5 +1,4 @@
 # thesaurus
-- - - - - - - 
 1. start
   * get the ball rolling
 
@@ -19,9 +18,11 @@
  
 
 # phrases collecting
-- - - - - - - - - 
 1. in sync across multiple devices
 
   > Use the free AnkiWeb synchronization service to keep your cards in sync across multiple devices. 
 
 
+# collection
+
+If you have made the switch to plain text and Markdown, using GitHub with your documents is a **breeze**
