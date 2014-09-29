@@ -37,6 +37,7 @@
 
 # collection
 
+GitHub's annual data challenge is back, and we can't wait to see what you'll build this year, *be it beautiful generative art or full blown, third-party activity dashboards*. 
 
 
 
