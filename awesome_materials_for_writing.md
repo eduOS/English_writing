@@ -1,28 +1,42 @@
 # thesaurus
 1. start
-  * get the ball rolling
+ * get the ball rolling
 
 1. not know well 
-  * have an inkling about
+ * have an inkling about
 
 1. obvious
-  * the elephant in the room
+ * the elephant in the room
 
-  > The elephant in the room for students, of course, is (a) why they should change to a practice (leaving Word) that will be viewed as strange and potentially difficult by other collaborators, and (b) more specifically, how they will interact with collaborators who only use Word for track changes and commenting.
+ > The elephant in the room for students, of course, is (a) why they should change to a practice (leaving Word) that will be viewed as strange and potentially difficult by other collaborators, and (b) more specifically, how they will interact with collaborators who only use Word for track changes and commenting.
 
 1. unfamiliar
-  * foreign
+ * foreign
 
-  > the tools and terms are mostly foreign to us
+ > the tools and terms are mostly foreign to us
 
+1. very easy
+ * a piece of cake
+ * a snap
+ * a breeze
+ 
+ > If you have made the switch to plain text and Markdown, using GitHub with your documents **is a breeze**
  
 
 # phrases collecting
 1. in sync across multiple devices
 
-  > Use the free AnkiWeb synchronization service to keep your cards in sync across multiple devices. 
+ > Use the free AnkiWeb synchronization service to keep your cards **in sync across** multiple devices. 
+  
+1. drop sb. a line
+
+ > If you have questions about the data challenge rules, **drop us a line** at data@github.com. Good luck!
+  
+
 
 
 # collection
 
-If you have made the switch to plain text and Markdown, using GitHub with your documents is a **breeze**
+
+
+
