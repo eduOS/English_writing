@@ -2,6 +2,27 @@
 1. start
  * get the ball rolling
 
+1. end
+
+ * source
+
+   > Our course has drawn to a close.
+
+ * extract
+
+   > draw something to a close
+   > draw to a close = come to a close
+
+ * expansion
+
+   > duration
+   > meeting, evening
+ 
+ * sample
+
+   > As the U. S. mid-term elections draw to a close, China is watching closely.
+   > Let me draw my remarks to a close.
+
 1. not know well 
  * have an inkling about
 
