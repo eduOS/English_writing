@@ -41,6 +41,7 @@
  * tremendous
  * magnificent
  * stupendous  
+
 # phrases collecting
 1. in sync across multiple devices  
 
