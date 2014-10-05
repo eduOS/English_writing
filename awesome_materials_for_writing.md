@@ -11,16 +11,19 @@
  * extract
 
    > draw something to a close
+   >
    > draw to a close = come to a close
 
  * expansion
 
    > duration
+   >
    > meeting, evening
  
  * sample
 
    > As the U. S. mid-term elections draw to a close, China is watching closely.
+   >
    > Let me draw my remarks to a close.
 
 1. not know well 
@@ -42,6 +45,9 @@
  * a breeze
  
  > If you have made the switch to plain text and Markdown, using GitHub with your documents **is a breeze**
+
+1. good
+ * marvelous
  
 
 # phrases collecting
@@ -60,5 +66,6 @@
 
 GitHub's annual data challenge is back, and we can't wait to see what you'll build this year, *be it beautiful generative art or full blown, third-party activity dashboards*. 
 
+Formatting text in Markdown has a very gentle learning curve. 
 
-
+The difference is that an image is prefaced with an exclamation point ( ! ), followed by the same two brackets, and a pair of parentheses containing the image URL
