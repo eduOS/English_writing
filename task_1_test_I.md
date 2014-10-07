@@ -1,2 +1,2 @@
 The two **line graphs** **illustrate** the growing amount of defense expenditure and its **proportion** of GNP in America.
-The line graph on the left hand describes the defence spending in about 20 years 
+It can be seen from the left line graph that America increased their spending on defence in fluctuation over the 20 years.   
