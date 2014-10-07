@@ -1,2 +1,2 @@
-The two **line graphs** **illustrate** the growing amount of defense expenditure and its **proportion** of GNP in America.
-It can be seen from the left line graph that America increased their spending on defence in fluctuation over the 20 years.   
+The two **line graphs** **illustrate** the growing amount of defense expenditure and its **proportion** of GNP in America.  
+It can be seen from the left line graph that America increased their spending on defence in fluctuation over the 20 years. In 1956 the amount of spending on defence stands at 37 million dollar. By 1963 this number increased gradually to 50, but in the next year the spending saw an opposite trend from 50 to 45 billion dollar. After that, the figure rises dramatically over the next 5 years, peaking at 80 in around 1969. After 1969, the figure falls again. The period from 1971 to 1974 experiences a slight rise, but the amount of spending declines again. 
