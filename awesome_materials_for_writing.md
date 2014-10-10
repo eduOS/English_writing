@@ -1,6 +1,10 @@
 # thesaurus
 1. start
  * get the ball rolling  
+
+1. background
+ * In biographies, you are almost always reading about people who started out unimportant but ended up having a significant life.
+
 1. end  
  * source    
  
