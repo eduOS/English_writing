@@ -46,24 +46,25 @@ If you have **made the switch to** plain text and Markdown, using GitHub with yo
 Use the free AnkiWeb synchronization service to keep your cards **in sync across** multiple devices.   
 
 1. about writing 
-* drop sb. a line
-If you have questions about the data challenge rules, **drop us a line** at data@github.com. Good luck!  
-* red pen
-Many years and many **red pens** later, I know better.
-* telling
-The details she described were vivid and **telling**.
-* exclamation point
-The difference is that an image is prefaced with an exclamation point ( ! ), followed by the same two brackets, and a pair of parentheses containing the image URL  
+  * drop sb. a line
+  If you have questions about the data challenge rules, **drop us a line** at data@github.com. Good luck!  
+  * red pen
+  Many years and many **red pens** later, I know better.
+  * telling
+  The details she described were vivid and **telling**.
+  * exclamation point
+  The difference is that an image is prefaced with an exclamation point ( ! ), followed by the same two brackets, and a pair of parentheses containing the image URL  
 
 1. about thinking
-* wild blue yonder
-I suppose it is possible to **stare into the wild blue yonder** and find inspiration.
-* the hard drive between their ears  
-All students can rely on for evidence is the material they find on **the hard drive between their ears**.  
-One has only to think of Lincoln’s Gettysburg ddress to realize the power of artfully chosen words **in the service** of important ideas.  
+  * wild blue yonder
+  I suppose it is possible to **stare into the wild blue yonder** and find inspiration.
+  * the hard drive between their ears  
+  All students can rely on for evidence is the material they find on **the hard drive between their ears**.  
+  One has only to think of Lincoln’s Gettysburg ddress to realize the power of artfully chosen words **in the service** of important ideas.  
 
 1. about learning 
-Formatting text in Markdown has a very gentle/steep **learning curve**.   
+  * learning curve
+  Formatting text in Markdown has a very gentle/steep **learning curve**.   
 
 
 
