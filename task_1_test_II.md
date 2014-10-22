@@ -1,10 +1,10 @@
-## topic
+## task
 These days, it seems that an increasing number of people are leaving rural areas to live in the city.
 
 Discuss some of the **effects of rural depopulation** (migration from the country to the city) and suggest some ways in which this trend could be **reversed**. 
 
 ## my assignment
-It's said that the city is our greatest invention. Nowadays,a growing number of people come from rural areas are attracted by this creation and are marching towards big cities. As a result, there has been a progressive decrease in population every year in the country. Inevitably, rural depopulation has brought about some bad effects such as resource waste. To alleviate this problem, the government could do more control on investment and talent introduction.      
+It's said that the city is our greatest invention. Nowadays,a growing number of people come from rural areas are attracted by this creation and are marching towards big cities. As a result, there has been a progressive decrease in population every year in the country. Inevitably, rural depopulation has brought about some bad effects such as impact on development and resource waste. To alleviate this problem, the government could do more control on investment and talent introduction.      
 
 The uncontrollable increase of city population and the decrease of rural population may depress the development of both urban and rural. More people may cause more pollution and more unemployment matters. With the increase of the unemployment rate, crime issue may become more serious. Thus, people's living and working condition would got worser. However, in undeveloped places, because of the loss of labor force which caused by depopulation and the accompanying high price work force business can be hardly done. Unprofitable business may result in undeveloped resources in these places. Without any doubt, people living there can hardly live a better life. Thus, more and more people may continue to migrate to cities. Apart from development problem, resource including the human resource and the mentioned natural resource may become a heartbreaking waste. Those migrant who can never find a job and who are underemployed very much in metropolis maybe can make a big difference in their hometown with unique resources there.         
 
