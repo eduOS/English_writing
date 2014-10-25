@@ -54,6 +54,8 @@ Use the free AnkiWeb synchronization service to keep your cards **in sync across
   The details she described were vivid and **telling**.    
   * exclamation point  
   The difference is that an image is prefaced with an exclamation point ( ! ), followed by the same two brackets, and a pair of parentheses containing the image URL    
+  * correction  
+  You can use the **colored fonts** and **strikethrough feature** to help you with your correction.
 
 1. about thinking  
   * wild blue yonder  
