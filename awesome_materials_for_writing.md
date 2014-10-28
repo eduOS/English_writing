@@ -66,7 +66,12 @@ Use the free AnkiWeb synchronization service to keep your cards **in sync across
 
 1. about learning   
   * learning curve  
-  Formatting text in Markdown has a very gentle/steep **learning curve**.     
+  Formatting text in Markdown has a very gentle/steep **learning curve**.   
+
+1. example
+  * to name a few  
+  Another way of looking at America as a 'salad bowl' is because there are 'China Towns', 'Korea Towns', 'Little Ethiopia' to name a few. 
+  * 
 
 
 
