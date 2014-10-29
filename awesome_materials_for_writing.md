@@ -73,5 +73,8 @@ Use the free AnkiWeb synchronization service to keep your cards **in sync across
   Another way of looking at America as a 'salad bowl' is because there are 'China Towns', 'Korea Towns', 'Little Ethiopia' to name a few. 
   * 
 
+1. about cause and effect  
+  
+1. about assumption  
 
 
