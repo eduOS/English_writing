@@ -6,6 +6,10 @@
 1. background
  * In biographies, you are almost always reading about people who started out unimportant but ended up having a significant life.
 
+1. use
+ * Reveal.js, like other work from Hattab, **leverages** modern browsers to exploit CSS 3D transformations to explore depth of the browser canvas.
+
+
 1. end  
 ```
 Our course has drawn to a close.  
