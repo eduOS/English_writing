@@ -81,4 +81,7 @@ Use the free AnkiWeb synchronization service to keep your cards **in sync across
   
 1. about assumption  
 
+# articles
+1. [about 3D](http://www.infoq.com/news/2013/02/reveal.js-2.2)
+  
 
