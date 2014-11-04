@@ -77,6 +77,10 @@ Use the free AnkiWeb synchronization service to keep your cards **in sync across
   Another way of looking at America as a 'salad bowl' is because there are 'China Towns', 'Korea Towns', 'Little Ethiopia' to name a few. 
   * 
 
+1. many  
+  * a handful of  
+    Hakim El Hattab released version 2.2 of reveal.js on January 28th, fixing a handful of bugs and implementing a host of new features in the JavaScript 3D presentation library.
+
 1. about cause and effect  
   
 1. about assumption  
