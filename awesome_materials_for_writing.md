@@ -92,5 +92,6 @@ Use the free AnkiWeb synchronization service to keep your cards **in sync across
 # great use of normal words or phrases
 1. detail
    Here is a link to a blog post where I **detailed** some of my early thoughts on the subject: http://nocategories.net/ephemera/writing/version-control-for-writers/
-  
+1. exposure
+   It was my first real **exposure** to a book being written that way
 
