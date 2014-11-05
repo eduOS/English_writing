@@ -8,6 +8,7 @@
 
 1. use
  * Reveal.js, like other work from Hattab, **leverages** modern browsers to exploit CSS 3D transformations to explore depth of the browser canvas.
+ * Understanding the concepts presented here will be the most valuable thing you can do to prepare yourself to **harness** the full power of Git.
 
 
 1. end  
