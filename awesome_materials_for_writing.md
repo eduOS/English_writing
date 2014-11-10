@@ -75,26 +75,29 @@ Use the free AnkiWeb synchronization service to keep your cards **in sync across
   Formatting text in Markdown has a very gentle/steep **learning curve**.   
 
 1. example
-  * to name a few  
+  * to name a few   
   Another way of looking at America as a 'salad bowl' is because there are 'China Towns', 'Korea Towns', 'Little Ethiopia' to name a few. 
   * 
 
 1. many  
-  * a handful of  
+  * a handful of   
     Hakim El Hattab released version 2.2 of reveal.js on January 28th, fixing a handful of bugs and implementing a host of new features in the JavaScript 3D presentation library.
 
 1. about cause and effect  
   
 1. about assumption  
 
-# articles
+1. abbreviation  
+  We like to use the /cc syntax (an **abbreviation for** carbon copy) to include people in issues.
+
+# articles  
 1. [about 3D](http://www.infoq.com/news/2013/02/reveal.js-2.2)
 2. 
 
 # great use of normal words or phrases
-1. detail
+1. detail  
    Here is a link to a blog post where I **detailed** some of my early thoughts on the subject: http://nocategories.net/ephemera/writing/version-control-for-writers/
-1. exposure
+1. exposure  
    It was my first real **exposure** to a book being written that way
-1. go through
+1. go through  
   all Git operations would have to go through the command line
