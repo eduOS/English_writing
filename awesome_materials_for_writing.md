@@ -90,6 +90,9 @@ Use the free AnkiWeb synchronization service to keep your cards **in sync across
 1. abbreviation  
   We like to use the /cc syntax (an **abbreviation for** carbon copy) to include people in issues.
 
+1. Ubuntu(philosophy)
+  In a more collective society, we realize from the inside that our own well-being is deeply tied to the well-being of others. Danger is shared. Pain is shared. Joy is shared. Achievement is shared. Houses are shared. Food is shard. Ubuntu asks us to open our hearts and to share.
+
 # articles  
 1. [about 3D](http://www.infoq.com/news/2013/02/reveal.js-2.2)
 2. 
